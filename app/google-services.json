@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "810000877548",
+    "firebase_url": "https://authlandapp-c86a7.firebaseio.com",
+    "project_id": "authlandapp-c86a7",
+    "storage_bucket": "authlandapp-c86a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810000877548:android:eb5cd5b4e26e9c4a",
+        "android_client_info": {
+          "package_name": "com.example.hackupc2016f.authlandapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "810000877548-fmgc4lbd3ht9innd4emng1060o6ssqme.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hackupc2016f.authlandapp",
+            "certificate_hash": "6F450EEADC116B9CF91DFB8B3D7DC83D115CCAC8"
+          }
+        },
+        {
+          "client_id": "810000877548-4396ipfllenthlv0sb4pah09oddn9r8c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtADV9mzdU_1WfKYnIjguDeUUO1T2pvOo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "810000877548-4396ipfllenthlv0sb4pah09oddn9r8c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
